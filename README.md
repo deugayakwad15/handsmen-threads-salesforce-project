@@ -99,4 +99,4 @@ This Salesforce implementation focuses on scalable data modeling, automation, an
 
 ## 📊 ER Diagram
 
-(ER1.png)
+![ER Diagram](ER1.png)
