@@ -99,4 +99,5 @@ This Salesforce implementation focuses on scalable data modeling, automation, an
 
 ## 📊 ER Diagram
 
-![ER Diagram](ER1.png)
+![ER Diagram](<img width="1533" height="892" alt="ER Diagram1" src="https://github.com/user-attachments/assets/d1ae6b0b-7a85-4d2e-be92-702baf7f3308" />
+)
